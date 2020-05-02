@@ -1,17 +1,18 @@
-## Welcome to GitHub Pages
+## 歡迎來到我的部落格
 
 You can use the [editor on GitHub](https://github.com/eric-teng/blog-PythonAA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 世紀帝國
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在我的部落格裡我想介紹世紀帝國這款遊戲
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 初次接觸世紀帝國
+我是在大二上的時候因為朋友介紹而首次接觸##世紀帝國3這款遊戲
 ## Header 2
 ### Header 3
 
