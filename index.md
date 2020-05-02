@@ -6,13 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 世紀帝國
 
-在我的部落格裡我想介紹世紀帝國這款遊戲
 
 ```markdown
-Syntax highlighted code block
-
 # 初次接觸世紀帝國
-我是在大二上的時候因為朋友介紹而首次接觸##世紀帝國3這款遊戲
+我是在大二上的時候因為朋友介紹而首次接觸世紀帝國3這款遊戲
 ## Header 2
 ### Header 3
 
